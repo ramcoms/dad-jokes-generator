@@ -64,8 +64,9 @@ button:hover {
     text-align: center;
   }
 
-  i {
+  .footer a {
     color: white;
-    font-size: 1rem;
+    font-size: .75rem;
     margin-right: 3px;
+    text-decoration: none;
 }
